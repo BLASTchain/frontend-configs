@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Blast Mainnet",
+        "url": "https://blastblockchain.com/",
+        "group": "Mainnets",
+        "icon": "https://raw.githubusercontent.com/BLASTchain/frontend-configs/master/configs/network-icons/blast.svg",
+        "isActive": true,
+        "invertIconInDarkMode": true
+    }
+]
