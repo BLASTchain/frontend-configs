@@ -6,5 +6,13 @@
         "icon": "https://raw.githubusercontent.com/BLASTchain/frontend-configs/master/configs/network-icons/blast.svg",
         "isActive": true,
         "invertIconInDarkMode": true
+    },
+    {
+        "title": "Blast Testnet",
+        "url": "https://testnet-explorer.blastblockchain.com/",
+        "group": "Testnets",
+        "icon": "https://raw.githubusercontent.com/BLASTchain/frontend-configs/master/configs/network-icons/blast.svg",
+        "isActive": true,
+        "invertIconInDarkMode": true
     }
 ]
