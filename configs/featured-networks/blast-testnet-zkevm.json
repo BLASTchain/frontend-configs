@@ -2,7 +2,7 @@
     {
         "title": "Blast ZKEVM",
         "url": "https://scan.blastblockchain.com/",
-        "group": "Mainnet",
+        "group": "Mainnets",
         "icon": "https://raw.githubusercontent.com/BLASTchain/frontend-configs/master/configs/network-icons/blast.svg",
         "isActive": true,
         "invertIconInDarkMode": true
